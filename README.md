@@ -1,12 +1,15 @@
 # Hex Map Project
 
-This is the [Hex Map project](https://catlikecoding.com/unity/hex-map/), a continuation and modernization of the [Hex Map tutorial series](https://catlikecoding.com/unity/tutorials/hex-map/).
+![Hex Map screenshot](Documentation/images/hex-map-banner.jpg)
 
-Each release has its own tutorial, which you can find on the [project page](https://catlikecoding.com/unity/hex-map/).
+This is the Hex Map project, a continuation and modernization of the [Hex Map tutorial series](https://catlikecoding.com/unity/tutorials/hex-map/).
+
+- [Documentation](Documentation/index.md)
+- [Changelog](CHANGELOG.md)
 
 ## Become My Patron
 
-Your support makes these projects and tutorials possible! If you like them and want to see more, please support me via [Patreon](https://www.patreon.com/catlikecoding) or [Ko-fi](https://ko-fi.com/catlikecoding).
+Your support makes these projects and tutorials possible! If you like them and want to see more, please become my patron, via [Patreon](https://www.patreon.com/catlikecoding). You can also make a one-time [donation](https://catlikecoding.com/unity/tutorials/donating.html).
 
 ## Giving Credit
 
